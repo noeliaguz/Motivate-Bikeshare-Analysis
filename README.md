@@ -1,4 +1,4 @@
-# Motivate Bikeshare Project
+# Motivate Bikeshare Analysis
 Python was used to understand and analyze U.S. bikeshare data from Motivate. Statistics were calculated and an interactive environment was built in which a user chooses the data and filters a dataset to analyze.
 
 ## Bikeshare Data
